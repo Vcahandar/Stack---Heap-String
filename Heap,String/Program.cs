@@ -205,7 +205,40 @@
 //Console.WriteLine(name==name2);
 
 
-string name = "Baku";
-Console.WriteLine(name.Replace("B","C"));
+//string name = "Baku";
+//Console.WriteLine(name.Replace("B","C"));
 
 
+//string name = "Baku";
+
+//if (string.IsNullOrEmpty(name))
+//{
+//    Console.WriteLine("yes");
+//}
+//else
+//{
+//    Console.WriteLine("no");
+//}
+
+
+//string name = "";
+//if (string.IsNullOrEmpty(name))
+//{
+//    Console.WriteLine("yes");
+//}
+//else
+//{
+//    Console.WriteLine("no");
+//}
+
+
+
+//string name = "Baku";
+//if (string.IsNullOrWhiteSpace(name))
+//{
+//    Console.WriteLine("yes");
+//}
+//else
+//{
+//    Console.WriteLine("No");
+//}
